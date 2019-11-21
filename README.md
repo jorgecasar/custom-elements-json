@@ -29,3 +29,7 @@ Documentation viewers should be able to display all the relevant information abo
 ## Linting
 
 Linters should be able to produce warnings based on custom element defintions, such as warning if unknown elements are used in HTML templates.
+
+## Testing
+
+Developers should be able to automate tests to ensure the custom element API (attributes, properies, events) has not been changed.
